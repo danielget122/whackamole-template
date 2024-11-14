@@ -1,6 +1,6 @@
 import pygame
-
-
+import random
+#hjkbxbscbsbcab
 def main():
     try:
         pygame.init()
